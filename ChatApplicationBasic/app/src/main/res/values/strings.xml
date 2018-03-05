@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="sign_in">Sign In</string>
+    <string name="hint_message">Message...</string>
+</resources>
